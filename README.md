@@ -1,2 +1,3 @@
 # prison-project
-Prison Project. Go look at the .py file, explains all.
+Prison Project. 
+A simple text game programmed in Python code. Find a way to break out of prison, legally or not.
